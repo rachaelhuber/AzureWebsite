@@ -1,4 +1,4 @@
 AzureWebsite
 ============
 
-Practise azure website
+Practise azure website, just for practise
